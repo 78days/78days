@@ -1,6 +1,30 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm a Software Engineer who loves building.<br><br>I work at the intersection of **AI, software engineering, and product development**, creating scalable systems, intelligent applications, and real-world solutions.<br><br>I specialize in AI/ML, Full-Stack Development, and Cloud Engineering, with a strong focus on LLMs, Generative AI, AI Agents, and production-grade systems.<br><br>I enjoy solving challenging problems, turning ideas into working products, and continuously improving my engineering fundamentals through building and experimentation.<br><br>🚀 Areas of Interest<br>- AI Engineering — Machine Learning, LLMs, RAG, Agents, Deep Learning, MLOps  <br>- Full-Stack Development — React, Next.js, Node.js, backend systems  <br>- Software Engineering — DSA, System Design, Databases, Distributed Systems, Cloud & DevOps  <br><br> 🎯 Mindset<br>I believe great engineers don’t just write code — they understand problems deeply, design systems thoughtfully, and build products that create real impact.<br><br>Always learning. Always building.
+# 💫 About Me
 
+## 👨‍💻 About Me
+
+I'm a Software Engineer who loves building.
+
+I work at the intersection of **AI, software engineering, and product development**, creating scalable systems, intelligent applications, and real-world solutions.
+
+I specialize in **AI/ML, Full-Stack Development, and Cloud Engineering**, with a strong focus on **LLMs, Generative AI, AI Agents, and production-grade systems**.
+
+I enjoy solving challenging problems, turning ideas into working products, and continuously improving my engineering fundamentals through building and experimentation.
+
+---
+
+## 🚀 Areas of Interest
+
+- 🤖 AI Engineering — Machine Learning, LLMs, RAG, AI Agents, Deep Learning, MLOps  
+- 🌐 Full-Stack Development — React, Next.js, Node.js, Backend Systems  
+- ⚙️ Software Engineering — DSA, System Design, Databases, Distributed Systems, Cloud & DevOps  
+
+---
+
+## 🎯 Mindset
+
+I believe great engineers don’t just write code — they deeply understand problems, design scalable systems, and build products that create real impact.
+
+**Always learning. Always building.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ali-faisal-5bb839235) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alifaisallion@gmail.com) 
