@@ -1,0 +1,29 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 19 * * *' # Midnight Pakistan time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README timestamp
+        run: |
+          echo "Last update: $(date)" > last-update.txt
+
+      - name: Commit and Push
+        run: |
+          git config user.name "78days"
+          git config user.email "alifaisallion@gmail.com"
+
+          git add last-update.txt
+          git commit -m "Auto update" || exit 0
+          git push
