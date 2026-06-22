@@ -98,4 +98,4 @@ I believe great engineers don’t just write code — they deeply understand pro
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-what to add and to remove in tech stack remember i am targeting for ai/ml , full stack devops roles and fde in yc companies and faang
+
