@@ -22,7 +22,7 @@ jobs:
       - name: Commit and Push
         run: |
           git config user.name "78days"
-          git config user.email "alifaisallion@gmail.com"
+          git config user.email "alifaisal2005@outlook.com"
 
           git add last-update.txt
           git commit -m "Auto update" || exit 0
