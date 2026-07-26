@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There,%20I'm%20Ali%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Builder&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+LLMs+%2C+RAG+%26+Agents;Full-Stack+Developer+%7C+React+%2C+Next.js+%2C+Node.js;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%2C+Docker;Building+CompanyBrain+%F0%9F%A7%A0+A+RAG+Knowledge+Platform" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+LLMs+%2C+RAG+%26+Agents;Full-Stack+Developer+%7C+React+%2C+Next.js+%2C+Node.js;Cloud+%26+DevOps+Enthusiast+%7C+AWS+%2C+Docker" />
 
 </div>
 
