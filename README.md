@@ -17,17 +17,28 @@ I specialize in **AI/ML, Full-Stack Development, and Cloud Engineering**, with a
 I enjoy solving challenging problems, turning ideas into working products, and continuously sharpening my engineering fundamentals through building and experimentation.
 
 ```python
-class Ali:
-    def __init__(self):
-        self.role = "Software Engineer"
-        self.focus = ["AI Engineering", "Full-Stack Development", "System Design"]
-        self.mindset = "Always learning. Always building."
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great! 🚀")
-
-me = Ali()
-me.say_hi()
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│  ███╗   ██╗ █████╗ ███████╗ ██████╗ ██╗   ██╗██╗                 │
+│  ████╗  ██║██╔══██╗╚══███╔╝██╔════╝ ██║   ██║██║                 │
+│  ██╔██╗ ██║███████║  ███╔╝ ██║  ███╗██║   ██║██║                 │
+│  ██║╚██╗██║██╔══██║ ███╔╝  ██║   ██║██║   ██║██║                 │
+│  ██║ ╚████║██║  ██║███████╗╚██████╔╝╚██████╔╝██║██████╔          │
+│  ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝                 │
+│                                                                  │
+│  ┌─── AI ENGINEERING ────────────────────────────────────────┐   │
+│  │                                                           │   │
+│  │  LLMs       ████████████████████░░                        │   │
+│  │  Agents     █████████████████░░░░░                        │   │
+│  │  Systems    ███████████████░░░░░░░                        │   │
+│  │  Backend    ██████████████████░░░░                        │   │
+│  │  Frontend   ████████████████░░░░░░                        │   │
+│  │                                                           │   │
+│  └───────────────────────────────────────────────────────────    │
+│                                                                  │
+│       $ BUILD → LEARN → BREAK → UNDERSTAND → REBUILD             │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
