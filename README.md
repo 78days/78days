@@ -26,7 +26,7 @@ I enjoy solving challenging problems, turning ideas into working products, and c
 │  ██║ ╚████║██║  ██║███████╗╚██████╔╝╚██████╔╝██║██████╔          │
 │  ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝                 │
 │                                                                  │
-│  ┌─── AI ENGINEERING ────────────────────────────────────────┐   │
+│  ┌─── FORWARD DEPLOYED ENGINEER ─────────────────────────────┐   │
 │  │                                                           │   │
 │  │  LLMs       ████████████████████░░                        │   │
 │  │  Agents     █████████████████░░░░░                        │   │
