@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+LLMs+%2C+RAG+%26+Agents;Full-Stack+Developer;System+Design+Enthusiast;Forward+Deployed+Engineer;Always+Learning.+Always+Building." />
 
+
 </div>
 
 <br/>
