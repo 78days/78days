@@ -2,7 +2,8 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 19 * * *' # Midnight Pakistan time
+    - cron: '0 19 * * *' # Midnight Pakistan time (00:00 PKT)
+    - cron: '0 7 * * *'  # Noon Pakistan time (12:00 PKT)
   workflow_dispatch:
 
 permissions:
